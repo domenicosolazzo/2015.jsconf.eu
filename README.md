@@ -32,3 +32,7 @@ Welcome to the world of Cognitive Computing, the next wave of computing technolo
   - Presentation: [Dependency Hell Just Froze Over](http://greenkeeper.io/)
   - Description: "If extensive libraries and even the tiniest module followed [SemVer](http://semver.org/) strictly, dependency hell would be a thing of the past … but humans weren’t made to follow rules.
 There are way more than 150.000 packages on npm today – the most of any registry. Using the right packages in your own modules and applications makes JavaScript the joy to develop it is today. But if even immensely popular libraries fail to properly declare breaking changes, how can we trust the over 50.000 strangers who developed all these modules? Currently we can’t. Let me show you how to write confidence-inspiring modules with breaking change detection and fully automated, tested releases including changelogs. Machines do a way better job with this than buggy humans."
+
+## Tools
+- [Semver](http://semver.org/): Semantic Versioning
+- [Greenkeeper.io](http://greenkeeper.io/): Always up-to-date npm dependencies, zero hassle
