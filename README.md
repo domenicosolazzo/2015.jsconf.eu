@@ -23,3 +23,7 @@ Suddenly you’ll understand why people recommend you place script tags at the b
   - Presentation: [What I learned teaching programming to 150 beginners](#)
   - Description: "A few months ago I was invited to give a workshop at Women’s International Leadership Conference on Introduction to Programming. That was an amazing experience that taught me incredible things and motivated me to open source all the steps. "
 
+- [Sam Richard](#)( [Twitter](https://twitter.com/snugug) / [Github](https://github.com/Snugug) / [Website](http://snugug.com/) )
+  - Presentation: [Domo Arigato Mr. Roboto](https://github.com/Snugug/mr-roboto)
+  - Description: "How would your message change if your email client told you your phrasing is likely to be perceived as negative? What would you cook if you could explore ingredient and culinary style pairings you’ve never encountered? How could your research improve if answers came with confidence levels and supporting evidence you can explore?
+Welcome to the world of Cognitive Computing, the next wave of computing technology bridging the gap between computers and humans. While these possibilities may seem far off, you can build all of these today! Let’s explore."
