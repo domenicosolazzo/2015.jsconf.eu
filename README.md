@@ -33,6 +33,13 @@ Welcome to the world of Cognitive Computing, the next wave of computing technolo
   - Description: "If extensive libraries and even the tiniest module followed [SemVer](http://semver.org/) strictly, dependency hell would be a thing of the past … but humans weren’t made to follow rules.
 There are way more than 150.000 packages on npm today – the most of any registry. Using the right packages in your own modules and applications makes JavaScript the joy to develop it is today. But if even immensely popular libraries fail to properly declare breaking changes, how can we trust the over 50.000 strangers who developed all these modules? Currently we can’t. Let me show you how to write confidence-inspiring modules with breaking change detection and fully automated, tested releases including changelogs. Machines do a way better job with this than buggy humans."
 
+- [Denys Mishunov](#)( [Twitter](https://twitter.com/mishunov) / [Github](https://github.com/mishunov) / [Website](http://mishunov.me/) )
+  - Presentation: [Illusion of Time. When 60 seconds is not 1 minute](http://www.slideshare.net/spliter/illusion-of-time-when-60-seconds-is-not-1-minute)
+  - Description: "What is common for Walt Disney World, airports and magicians? All of these are distorting user’s perception to build illusions that make us feel good even though we don’t notice them so easily. Those are time illusions. Developers, as magicians, can use the same techniques to distort users’ perception of time to deliver fast and competitive products. The talk is about psychology, perception, time and, of course, illusions."
+
 ## Tools
 - [Semver](http://semver.org/): Semantic Versioning
 - [Greenkeeper.io](http://greenkeeper.io/): Always up-to-date npm dependencies, zero hassle
+
+## Articles
+- [Why Performance Matters: The Perception Of Time](http://www.smashingmagazine.com/2015/09/why-performance-matters-the-perception-of-time/) by [Denys Mishunov](https://twitter.com/mishunov)
