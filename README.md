@@ -14,3 +14,8 @@ In this session, you’ll learn everything from etymology to history to broader 
   - Presentation: [So how does the browser actually render a website](#)
   - Description: "We all take for granted that when we push enter in the browsers address bar, magic happens. The browser gets our HTML, that intern requests all the dependencies, insert magic, other things happen and then we have our site rendered. Simple, right, right… Like many people as I’ve progressed in my career, building for the web, I’ve become curious as to how the browser does what it does. What makes it tick, how it turns a string of HTML into a data structure, how CSS & JavaScript come into play. Things like render tree, style recalculation, paints, reflows, all alien words will start to make sense by the end of this talk.
 Suddenly you’ll understand why people recommend you place script tags at the bottom of the document, inlining critical CSS & all sorts of other performance techniques."
+
+- [Kai Jäger](#)( [Twitter](https://twitter.com/kaijaeger/) / [Github](https://github.com/kaijaeger/) / [Website](https://about.me/kaijaeger) )
+  - Presentation: [What it’s like to live on the Edge](#)
+  - Description: "This is the story of a new browser with a complicated legacy. It’s a story about making new friends without alienating old acquaintances. Most of all, it’s a story about innovating without breaking the Web. This is the story of Microsoft Edge, the new browser in Windows 10, how it came to be, what separates it from Internet Explorer and what that means for web developers. It’s a tale of epic proportions with a happy ending that is really only the beginning."
+
