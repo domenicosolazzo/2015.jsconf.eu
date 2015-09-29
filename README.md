@@ -59,6 +59,10 @@ This will be an exploration of our tool chains with a focus on transpilers. The 
   - Presentation: [Breaking Bad - Web Components in production, what worked for us](#)
   - Description: "Imagine many teams distributed over the globe working on different services. Each team is small enough to be fed with two large pizzas. Got that? Welcome to AWS! This is what makes us successful, but it also brings its own challenges. One of them is ensuring accessibility, performance, and consistency across all our UIs. Because of this we chose to explore Web Components in the last year and I want to share what we have learned. I will go over the current state and support of all Web Components building blocks. It will get technical fast as I tell you why polyfills did not work for us. We continued to investigate the underlying technology and wrote our own library that I want to share with you. As no goal can be achieved by ‘only’ producing code, I will also explain what I did in addition."
 
+- [Joa Ebert](#)( [Twitter](https://twitter.com/joa) / [Github](https://github.com/joa/) / [Website](https://www.joa-ebert.com/) )
+  - Presentation: [JVM/JS](#)
+  - Description: "Compiling Java bytecode to JavaScript is an interesting problem to solve and many things can be learned from this challenge. 1) The difference of JSVMs and performance implications. 2) The state of WebIDL and why it matters. 3)Types and optimizing compilers: an AOT love story. Technology is always just a means to an end. That’s why we’ll also look at self-optimizing display lists, WebGL and the WebAudio API in real-world apps."
+
 ## Tools
 - [Semver](http://semver.org/): Semantic Versioning
 - [Greenkeeper.io](http://greenkeeper.io/): Always up-to-date npm dependencies, zero hassle
