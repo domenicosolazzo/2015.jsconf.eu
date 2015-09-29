@@ -45,7 +45,9 @@ There are way more than 150.000 packages on npm today – the most of any regist
   - Presentation: [Salvaging contentEditable: Building a Robust WYSIWYM Editor](#)
   - Description: "Web-based WYSIWYG editors are notorious for spitting out a distasteful HTML soup. In this talk I’ll show how I implemented an editor that, instead of trying to filter and clean this soup, takes control away from the browser’s contentEditable implementation, and reinterpret user actions as operations on our own semantic document model (i.e. not HTML). The result is a WYSIWYM (what you see is what you mean) editor, more predictable than classic WYSIWYG, and just as user friendly."
 
-
+- [Sarah Meyer](#)( [Twitter](https://twitter.com/meyerini) / [Github](https://github.com/sarahmeyer) )
+  - Presentation: [Life in the Wilderness: How to Pioneer Tech Culture](#)
+  - Description: "A lot of us are engineers at companies that don’t enshrine technology as their core product, or that employ significantly more non-technical than technical people. Others of us work completely alone as freelancers. If you’re in that position, how do you create a place for technological transformation in the organization, or communicate with non-technical clients? I’ll cover how to - evaluate what your project needs - maintain your productivity - create understanding of technical issues - keep learning without anyone around to teach you new stuff."
 
 ## Tools
 - [Semver](http://semver.org/): Semantic Versioning
