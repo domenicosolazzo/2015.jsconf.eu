@@ -91,6 +91,9 @@ This will be an exploration of our tool chains with a focus on transpilers. The 
   - Presentation: [The Power Of Small Abstractions](#)
   - Description: "Every time we solve an everyday programming problem we learn from its solution. When we come across a similar problem later on, we think “aha! I’ve seen this before! I know how to solve it!”. Many of us are also familiar with design patterns, which aim to solve entire classes of problems. There also exists, however, a different kind of pattern. But, as opposed to help you structure a whole compiler or application, these patterns love hiding in small things like methods or functions, or even binary operations. They whisper to you when you concatenate two strings or map over a list. These abstractions have superpowers, too. They can separate the what from the when, or from the how. They can add together things other than numbers. They can control time. In this talk you will discover the amazing power of small abstractions. After, you’ll start hearing their whispers and seeing their breadcrumb trails. Only then you will be ready to let them unfold their full potential in your programs."
 
+- [Surma Surma](#)( [Twitter]
+  - Presentation: [The Mobile Web is a Contender](#)
+  - Description: "This talk will focus on the new generation of APIs which make the web a more capable platform for applications. Push Notifications, Offline Storage with Service Workers, and responsive UIs built in Web Components. These are the building blocks of the future. We will also look at the kinds of sites which excel as mobile web apps (backed with actual data!), and make the case for why you should be investing more in your mobile web experience."
 
 
 ## Tools
