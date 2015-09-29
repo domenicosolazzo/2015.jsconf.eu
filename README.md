@@ -63,6 +63,11 @@ This will be an exploration of our tool chains with a focus on transpilers. The 
   - Presentation: [JVM/JS](#)
   - Description: "Compiling Java bytecode to JavaScript is an interesting problem to solve and many things can be learned from this challenge. 1) The difference of JSVMs and performance implications. 2) The state of WebIDL and why it matters. 3)Types and optimizing compilers: an AOT love story. Technology is always just a means to an end. That’s why we’ll also look at self-optimizing display lists, WebGL and the WebAudio API in real-world apps."
 
+- [Szymon Nowak](#)( [Twitter](https://twitter.com/szimek) / [Github](https://github.com/szimek) )
+  - Presentation: [How to grow your own Babel fish](#)
+  - Description: "In “The Hitchhiker’s Guide to the Galaxy” the Babel fish is an animal, which “if you stick one in your ear, you can instantly understand anything said to you in any form of language”. In this talk I’ll show you how easy it is to write a web app that does exactly that. I’ll also discuss some of the current Web Speech API limitations that hopefully will be removed in the near future to make the web even more powerful platform for real-time communication. And you won’t have to stick anything into your ear!"
+
+
 ## Tools
 - [Semver](http://semver.org/): Semantic Versioning
 - [Greenkeeper.io](http://greenkeeper.io/): Always up-to-date npm dependencies, zero hassle
