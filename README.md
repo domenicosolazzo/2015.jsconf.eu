@@ -99,6 +99,10 @@ This will be an exploration of our tool chains with a focus on transpilers. The 
   - Presentation: [Rendering HTML via WebGL](#)
   - Description: "In the recent time Web development community had a big discussion on “DOM is slow” topic. This thesis is truthful. DOM is a quite complex model which starts a ripple of events or chain reaction over document on every modification. HTML GL solves “the slow DOM problem” by creating WebGL representations of DOM elements and hiding actual DOM after. This speeds up HTML/CSS animations and transformations by using 3D hardware acceleration and allows to apply OpenGL effects as modern 3D games have."
 
+- [Thomas Gorissen](#)( [Twitter](https://twitter.com/serrynaimo) / [Github](https://github.com/serrynaimo) )
+  - Presentation: [The year of the peer-to-peer web](#)
+  - Description: "2015 is when WebRTC broke through. Barely a standard it already has its own conferences, yet is mostly known for it’s ability to do video calling. It is time the web developer community becomes aware of all the powers of WebRTC and a browser-to-browser web that can be faster, more resilient and safer. This talk wants to open minds, through the power of code and demos, showing incredibly useful, fun and even ridiculous use-cases (from WebTorrent to Karaoke to Selfies) cut through the complexity of WebRTC and inspire what could become the democratisation of the web."
+
 ## Tools
 - [Semver](http://semver.org/): Semantic Versioning
 - [Greenkeeper.io](http://greenkeeper.io/): Always up-to-date npm dependencies, zero hassle
