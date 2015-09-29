@@ -107,6 +107,11 @@ This will be an exploration of our tool chains with a focus on transpilers. The 
   - Presentation: [Functional Layout - Updating the DOM at 60FPS](#)
   - Description: "We present a functional take on front-end data-binding. MVC, MVP, MVVM, just the V – there are many useful architectures for data binding when data changes in discrete chunks. For data that changes continuously in time (animations, gesture controlled UI, responsive layout, etc), these are not the best tools. By treating continuously changing layout data in a functional way, and updating discrete changes to a model’s data in an MV* way, we can split the data-binding problem into two cleanly separated problems. In so doing we make all our tools better at what they do best."
 
+- [Cate Huston](#)( [Twitter](https://twitter.com/catehstn) / [Github](https://github.com/catehstn) / [Website](http://www.catehuston.com/blog/) )
+  - Presentation: [Some Things I’ve Learned About Color](#)
+  - Description: "Burnout saps the joy from creating and leaves the world in shades of grey. What do you do when you realise your work is meaningless and you dread going in every day? As an engineer, you can analyse the system, determine what is missing, and inject some much needed color."
+
+
 ## Tools
 - [Semver](http://semver.org/): Semantic Versioning
 - [Greenkeeper.io](http://greenkeeper.io/): Always up-to-date npm dependencies, zero hassle
