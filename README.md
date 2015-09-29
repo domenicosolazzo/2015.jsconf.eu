@@ -71,6 +71,11 @@ This will be an exploration of our tool chains with a focus on transpilers. The 
   - Presentation: [Zen of JavaScript](#)
   - Description: "Long time passed since JavaScript become mainstream. And despite multiple attempts, there is still no right single way to write code in this language. Everybody is using it in their own special way and most people still fill that they are failing to tame the language. In this talk I will try to show you what language is trying to tell us for all these years, where is real path to enlightenment or at least we could have fun and look at things we know (or pretending to ;) from unorthodox point of view."
 
+- [Stefanie Schirmer](#)( [Twitter](https://twitter.com/linse) / [Github](https://github.com/linse) / [Website](http://linse.me/) )
+  - Presentation: [Functional programming and curry cooking in JS](#)
+  - Description: "Are you interested in learning about functional programming? Are you reaching the limits of abstraction when programming in JavaScript? Do you sometimes find yourself lost in a forest of callbacks? In this talk we explore functional programming concepts, which help us create powerful abstractions to master complex problems and create more simple and elegant programs. JavaScript allows us to ease into the functional programming style, letting us focus just on the concepts, without the distraction of learning a specific functional programming language. To make the dry functional programming concepts more digestible, we use cooking as an analogy. And since the logician Haskell Curry invented functional programming, we combine our journey in JavaScript with examples and recipes for tasty curry dishes. So even if you get stuck on concepts like higher order functions, continuation passing style or monads, you will at least not go home hungry."
+  
+
 ## Tools
 - [Semver](http://semver.org/): Semantic Versioning
 - [Greenkeeper.io](http://greenkeeper.io/): Always up-to-date npm dependencies, zero hassle
