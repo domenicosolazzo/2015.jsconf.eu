@@ -83,6 +83,10 @@ This will be an exploration of our tool chains with a focus on transpilers. The 
   - Presentation: [Let’s make JavaScript programs faster](#)
   - Description: "Despite the large improvements of JavaScript engines in recent years, developers still apply many optimizations to improve performance of their code. Many of these optimizations are caused by misuse of popular APIs or statements that disable compiler optimizations. Moreover, most optimizations affect only a small number of statements."
 
+- [Franziska Hinkelmann](#)( [Twitter](https://twitter.com/fhinkel) / [Github](https://github.com/fhinkel/) / [Website](https://www.linkedin.com/in/fhinkel) )
+  - Presentation: [A Trip to the Zoo: SpiderMonkey, SquirrelFish, Nashorn, and V8](#)
+  - Description: "Do you know how JavaScript engines work and why they are so blazingly fast? Learn about the fundamentals like abstract syntax tree, opcodes, and just-in-time compilation. JavaScript code can be almost as fast as native C++ code. How do engines accomplish this? Lets look into optimization techniques including hidden classes, ahead-of-time compilation, and single instruction multiple data computations, which, if applied correctly, will give your code a turbo boost. Understand the inner workings of JavaScript engines and learn by examples how to write faster code."
+
 ## Tools
 - [Semver](http://semver.org/): Semantic Versioning
 - [Greenkeeper.io](http://greenkeeper.io/): Always up-to-date npm dependencies, zero hassle
