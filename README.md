@@ -87,6 +87,12 @@ This will be an exploration of our tool chains with a focus on transpilers. The 
   - Presentation: [A Trip to the Zoo: SpiderMonkey, SquirrelFish, Nashorn, and V8](#)
   - Description: "Do you know how JavaScript engines work and why they are so blazingly fast? Learn about the fundamentals like abstract syntax tree, opcodes, and just-in-time compilation. JavaScript code can be almost as fast as native C++ code. How do engines accomplish this? Lets look into optimization techniques including hidden classes, ahead-of-time compilation, and single instruction multiple data computations, which, if applied correctly, will give your code a turbo boost. Understand the inner workings of JavaScript engines and learn by examples how to write faster code."
 
+- [Txus](#)( [Twitter](https://twitter.com/txustice) / [Github](https://github.com/txus) / [Website](http://blog.txus.io/) )
+  - Presentation: [The Power Of Small Abstractions](#)
+  - Description: "Every time we solve an everyday programming problem we learn from its solution. When we come across a similar problem later on, we think “aha! I’ve seen this before! I know how to solve it!”. Many of us are also familiar with design patterns, which aim to solve entire classes of problems. There also exists, however, a different kind of pattern. But, as opposed to help you structure a whole compiler or application, these patterns love hiding in small things like methods or functions, or even binary operations. They whisper to you when you concatenate two strings or map over a list. These abstractions have superpowers, too. They can separate the what from the when, or from the how. They can add together things other than numbers. They can control time. In this talk you will discover the amazing power of small abstractions. After, you’ll start hearing their whispers and seeing their breadcrumb trails. Only then you will be ready to let them unfold their full potential in your programs."
+
+
+
 ## Tools
 - [Semver](http://semver.org/): Semantic Versioning
 - [Greenkeeper.io](http://greenkeeper.io/): Always up-to-date npm dependencies, zero hassle
