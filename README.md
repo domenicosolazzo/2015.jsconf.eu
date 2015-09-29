@@ -67,6 +67,9 @@ This will be an exploration of our tool chains with a focus on transpilers. The 
   - Presentation: [How to grow your own Babel fish](#)
   - Description: "In “The Hitchhiker’s Guide to the Galaxy” the Babel fish is an animal, which “if you stick one in your ear, you can instantly understand anything said to you in any form of language”. In this talk I’ll show you how easy it is to write a web app that does exactly that. I’ll also discuss some of the current Web Speech API limitations that hopefully will be removed in the near future to make the web even more powerful platform for real-time communication. And you won’t have to stick anything into your ear!"
 
+- [Dmitry Baranovskiy](#)( [Twitter](https://twitter.com/DmitryBaranovsk) / [Github](https://github.com/DmitryBaranovskiy) / [Website](http://dmitry.baranovskiy.com/) )
+  - Presentation: [Zen of JavaScript](#)
+  - Description: "Long time passed since JavaScript become mainstream. And despite multiple attempts, there is still no right single way to write code in this language. Everybody is using it in their own special way and most people still fill that they are failing to tame the language. In this talk I will try to show you what language is trying to tell us for all these years, where is real path to enlightenment or at least we could have fun and look at things we know (or pretending to ;) from unorthodox point of view."
 
 ## Tools
 - [Semver](http://semver.org/): Semantic Versioning
