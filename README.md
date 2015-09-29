@@ -111,6 +111,10 @@ This will be an exploration of our tool chains with a focus on transpilers. The 
   - Presentation: [Some Things I’ve Learned About Color](#)
   - Description: "Burnout saps the joy from creating and leaves the world in shades of grey. What do you do when you realise your work is meaningless and you dread going in every day? As an engineer, you can analyse the system, determine what is missing, and inject some much needed color."
 
+- [Martin Schuhfuß](#)( [Twitter](https://twitter.com/usefulthink) / [Github](https://github.com/usefulthink/) / [Website](https://plus.google.com/+MartinSchuhfuss/posts) )
+  - Presentation: [Let there be light!](#)
+  - Description: "It is long known that the quality and setting of the light in our environment influences our moods and minds in a near-infinite number of ways. Yet the lights in most homes and work places are still restricted to the ever present on-/and off-switches (and maybe some dimming). Enough of that. Take some of the modern lighting-solutions today, add a healthy dose of JavaScript and sprinkle with some other web technologies to create and control your own lights to suit any of your moods and ideas – directly from within your browser. In a very colorful talk full of practical examples I will demonstrate a number of those possibilities."
+
 
 ## Tools
 - [Semver](http://semver.org/): Semantic Versioning
