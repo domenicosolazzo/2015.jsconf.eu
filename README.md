@@ -49,6 +49,12 @@ There are way more than 150.000 packages on npm today – the most of any regist
   - Presentation: [Life in the Wilderness: How to Pioneer Tech Culture](#)
   - Description: "A lot of us are engineers at companies that don’t enshrine technology as their core product, or that employ significantly more non-technical than technical people. Others of us work completely alone as freelancers. If you’re in that position, how do you create a place for technological transformation in the organization, or communicate with non-technical clients? I’ll cover how to - evaluate what your project needs - maintain your productivity - create understanding of technical issues - keep learning without anyone around to teach you new stuff."
 
+- [Peter Müller](#)( [Twitter](https://twitter.com/_munter_) / [Github](https://github.com/Munter) / [Website](https://mntr.dk/) )
+  - Presentation: [Transpiling Recomposed](#)
+  - Description: "Modern web developers have become heavily dependent on abstractions like jade, sass or ES6. These are powerful tools, but to themselves require new abstractions, wrappers and runners. The rate at which new tools, workflows and even languages are appearing is staggering. Each iteration adds more complexity and less interoperability.
+So how do we expect newcomers to be able to enter our field when we can hardly keep up ourself?
+This will be an exploration of our tool chains with a focus on transpilers. The mission: To identify moving parts, recompose and simplify for the good of the current and future generation of developers."
+
 ## Tools
 - [Semver](http://semver.org/): Semantic Versioning
 - [Greenkeeper.io](http://greenkeeper.io/): Always up-to-date npm dependencies, zero hassle
