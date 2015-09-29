@@ -37,6 +37,11 @@ There are way more than 150.000 packages on npm today – the most of any regist
   - Presentation: [Illusion of Time. When 60 seconds is not 1 minute](http://www.slideshare.net/spliter/illusion-of-time-when-60-seconds-is-not-1-minute)
   - Description: "What is common for Walt Disney World, airports and magicians? All of these are distorting user’s perception to build illusions that make us feel good even though we don’t notice them so easily. Those are time illusions. Developers, as magicians, can use the same techniques to distort users’ perception of time to deliver fast and competitive products. The talk is about psychology, perception, time and, of course, illusions."
 
+- [Nick Hehr](#)( [Twitter](https://twitter.com/hipsterbrown) / [Github](https://github.com/hipsterbrown) / [Website](http://hipsterbrown.com/) )
+  - Presentation: [The Other Side of Empathy](#)
+  - Description: "In an industry that is so focused frameworks & tooling, we tend to lose sight of the people behind the products and how we work with them. I’ve found empathy to be a powerful resource while collaborating with teams inside companies and across the open source community. By breaking down The Other Side of Empathy, I will demonstrate how applying its principles to your development process will benefit the community and the products they create."
+  
+
 ## Tools
 - [Semver](http://semver.org/): Semantic Versioning
 - [Greenkeeper.io](http://greenkeeper.io/): Always up-to-date npm dependencies, zero hassle
