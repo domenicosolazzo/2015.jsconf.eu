@@ -103,6 +103,10 @@ This will be an exploration of our tool chains with a focus on transpilers. The 
   - Presentation: [The year of the peer-to-peer web](#)
   - Description: "2015 is when WebRTC broke through. Barely a standard it already has its own conferences, yet is mostly known for it’s ability to do video calling. It is time the web developer community becomes aware of all the powers of WebRTC and a browser-to-browser web that can be faster, more resilient and safer. This talk wants to open minds, through the power of code and demos, showing incredibly useful, fun and even ridiculous use-cases (from WebTorrent to Karaoke to Selfies) cut through the complexity of WebRTC and inspire what could become the democratisation of the web."
 
+- [David Valdman](#)( [Twitter](https://twitter.com/dmvaldman) / [Github](https://github.com/dmvaldman) )
+  - Presentation: [Functional Layout - Updating the DOM at 60FPS](#)
+  - Description: "We present a functional take on front-end data-binding. MVC, MVP, MVVM, just the V – there are many useful architectures for data binding when data changes in discrete chunks. For data that changes continuously in time (animations, gesture controlled UI, responsive layout, etc), these are not the best tools. By treating continuously changing layout data in a functional way, and updating discrete changes to a model’s data in an MV* way, we can split the data-binding problem into two cleanly separated problems. In so doing we make all our tools better at what they do best."
+
 ## Tools
 - [Semver](http://semver.org/): Semantic Versioning
 - [Greenkeeper.io](http://greenkeeper.io/): Always up-to-date npm dependencies, zero hassle
