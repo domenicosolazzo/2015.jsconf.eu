@@ -55,6 +55,10 @@ There are way more than 150.000 packages on npm today – the most of any regist
 So how do we expect newcomers to be able to enter our field when we can hardly keep up ourself?
 This will be an exploration of our tool chains with a focus on transpilers. The mission: To identify moving parts, recompose and simplify for the good of the current and future generation of developers."
 
+- [Olga Madejska](#)( [Twitter](https://twitter.com/olamad313) / [Github](https://github.com/olamad) )
+  - Presentation: [Breaking Bad - Web Components in production, what worked for us](#)
+  - Description: "Imagine many teams distributed over the globe working on different services. Each team is small enough to be fed with two large pizzas. Got that? Welcome to AWS! This is what makes us successful, but it also brings its own challenges. One of them is ensuring accessibility, performance, and consistency across all our UIs. Because of this we chose to explore Web Components in the last year and I want to share what we have learned. I will go over the current state and support of all Web Components building blocks. It will get technical fast as I tell you why polyfills did not work for us. We continued to investigate the underlying technology and wrote our own library that I want to share with you. As no goal can be achieved by ‘only’ producing code, I will also explain what I did in addition."
+
 ## Tools
 - [Semver](http://semver.org/): Semantic Versioning
 - [Greenkeeper.io](http://greenkeeper.io/): Always up-to-date npm dependencies, zero hassle
