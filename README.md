@@ -95,6 +95,9 @@ This will be an exploration of our tool chains with a focus on transpilers. The 
   - Presentation: [The Mobile Web is a Contender](#)
   - Description: "This talk will focus on the new generation of APIs which make the web a more capable platform for applications. Push Notifications, Offline Storage with Service Workers, and responsive UIs built in Web Components. These are the building blocks of the future. We will also look at the kinds of sites which excel as mobile web apps (backed with actual data!), and make the case for why you should be investing more in your mobile web experience."
 
+- [Denis Radin](#)( [Twitter](https://twitter.com/PixelsCommander) / [Github](https://github.com/PixelsCommander) / [Website](http://pixelscommander.com/) )
+  - Presentation: [Rendering HTML via WebGL](#)
+  - Description: "In the recent time Web development community had a big discussion on “DOM is slow” topic. This thesis is truthful. DOM is a quite complex model which starts a ripple of events or chain reaction over document on every modification. HTML GL solves “the slow DOM problem” by creating WebGL representations of DOM elements and hiding actual DOM after. This speeds up HTML/CSS animations and transformations by using 3D hardware acceleration and allows to apply OpenGL effects as modern 3D games have."
 
 ## Tools
 - [Semver](http://semver.org/): Semantic Versioning
