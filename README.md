@@ -20,7 +20,7 @@ Suddenly you’ll understand why people recommend you place script tags at the b
   - Description: "This is the story of a new browser with a complicated legacy. It’s a story about making new friends without alienating old acquaintances. Most of all, it’s a story about innovating without breaking the Web. This is the story of Microsoft Edge, the new browser in Windows 10, how it came to be, what separates it from Internet Explorer and what that means for web developers. It’s a tale of epic proportions with a happy ending that is really only the beginning."
 
 - [Etiene Dalcol](#)( [Twitter](https://twitter.com/etiene_d) / [Github](https://github.com/Etiene) / [Website](http://etiene.net/) )
-  - Presentation: [What I learned teaching programming to 150 beginners](#)
+  - Presentation: [What I learned teaching programming to 150 beginners](http://pt.slideshare.net/EtieneDalcol/what-i-learned-teaching-programming-to-150-beginners)
   - Description: "A few months ago I was invited to give a workshop at Women’s International Leadership Conference on Introduction to Programming. That was an amazing experience that taught me incredible things and motivated me to open source all the steps. "
 
 - [Sam Richard](#)( [Twitter](https://twitter.com/snugug) / [Github](https://github.com/Snugug) / [Website](http://snugug.com/) )
