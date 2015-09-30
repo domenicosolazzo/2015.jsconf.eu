@@ -125,6 +125,9 @@ This will be an exploration of our tool chains with a focus on transpilers. The 
   - Presentation: [Write once, debug everywhere, from Firefox](#)
   - Description: "Remember the old joke about how the Java slogan “write once, run everywhere” was more like “write once, debug everywhere”? Good one. Actually, many people say this about the Web, too. In fact, it would be more accurate in our case to state it as “write once, debug everywhere, each time with different tools”. But does it have to be that way? A new Firefox feature called Valence allows you to debug your web app in any target environment: Firefox, Chrome, iOS, Android, you name it. Does it actually work? How does it work? Can we expect more from it? How can other browsers use it? In this talk we will find the answers to these questions and discuss the accuracy of the tentative slogan “write once, debug everywhere, from Firefox” (or lack thereof)."
 
+- [Whitney Williams](#)( [Twitter](https://twitter.com/whitneyhacks) / [Github](https://github.com/wweliz) / [Website](http://whitneyeliz.com/) )
+  - Presentation: [If Walter Gropius was a JavaScripter](#)
+  - Description: "The Bauhaus school’s emphasis on the importance of simplicity, the belief that form follows function, and the reconciliation of the fine and applied arts mirrors the development community’s struggles to reconcile code with design. We’ll examine how the ideas of Walter Gropius and other leading minds at the Bauhaus remain relevant nearly a century later, and focus on how these fundamental tenets can guide the way we structure our JavaScript."
 
 ## Tools
 - [Semver](http://semver.org/): Semantic Versioning
