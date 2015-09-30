@@ -214,6 +214,7 @@ This will be an exploration of our tool chains with a focus on transpilers. The 
 - [Semver](http://semver.org/): Semantic Versioning
 - [Greenkeeper.io](http://greenkeeper.io/): Always up-to-date npm dependencies, zero hassle
 - [ProseMirror](http://prosemirror.net//): In-browser structured text editing
+- [Fusile](https://github.com/Munter/fusile): A web asset precompiling file system proxy.
 
 ## Articles
 - [Why Performance Matters: The Perception Of Time](http://www.smashingmagazine.com/2015/09/why-performance-matters-the-perception-of-time/) by [Denys Mishunov](https://twitter.com/mishunov)
