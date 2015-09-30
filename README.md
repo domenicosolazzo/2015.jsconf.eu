@@ -202,6 +202,9 @@ This will be an exploration of our tool chains with a focus on transpilers. The 
   - Presentation: [JavaScript Community: The Good Parts](#)
   - Description: "As front-end dev educator, my heart broke every time a student proclaimed “I hate JavaScript.” I’ve found the JavaScript community to be extremely positive and welcoming, but we can do better, especially if our newest colleagues aren’t feeling the love. Let’s talk about barriers to entry for new JS devs, both technical and non-technical, and let’s talk about how we can help alleviate them. Learn how to be supportive and inspiring in your daily work, how to teach and explain JS concepts effectively, and how you, esteemed JS community member, can help end the laments of “I hate JavaScript.”"
 
+- [Lieke Boon](#)( [Twitter](https://twitter.com/Lieke2208) / [Github](https://github.com/Lieke22) / [Website](http://www.codepancake.com/) )
+  - Presentation: [Unconscious Bias: we're all guilty](#)
+  - Description: "We probably all know that diverse teams are effective teams. Teams with more gender diversity have been proven to be more creative, productive, innovative. Nevertheless, the technology industry, has been showing a recent and steady decline regarding women who find and pursue degrees in what should be a growing pool of opportunity. In this talk we’ll examine the reasons behind the gender­gap in IT by going on a small trip and we’ll figure out what we can do to make our community better in only a couple days!"
 
 ## Tools
 - [Semver](http://semver.org/): Semantic Versioning
