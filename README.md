@@ -157,6 +157,10 @@ This will be an exploration of our tool chains with a focus on transpilers. The 
   - Presentation: [AirPlay protocol hacking](#)
   - Description: "Reverse engineering of the AirPlay protocol and a complete JavaScript implementation"
 
+- [Curtis Lassam](#)( [Twitter](https://twitter.com/classam) / [Github](https://github.com/classam/) / [Website](http://curtis.lassam.net/#/) )
+  - Presentation: [Horse Drawing Tycoon: The World's Best Horse Drawing Simulator](#)
+  - Description: "After a local VanJS meetup, my friends and I were tossing around project ideas. Someone referenced a website that would procedurally generate terrible ideas for video games. “A tycoon game where you draw horses indefinitely”. What a wonderful, terrible, awful idea for a game. In this presentation, we go through the 1000 lines of Javascript and two weeks of drunken after-work coding required to produce the world’s only horse drawing tycoon simulator, with Canvas, Twitter integration, the legendary HorseHash™ algorithm, HorseCurrency™, and HorseStamps®! You’ll pay for the whole seat but you’ll only need the edge."
+
 ## Tools
 - [Semver](http://semver.org/): Semantic Versioning
 - [Greenkeeper.io](http://greenkeeper.io/): Always up-to-date npm dependencies, zero hassle
