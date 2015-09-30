@@ -129,6 +129,10 @@ This will be an exploration of our tool chains with a focus on transpilers. The 
   - Presentation: [If Walter Gropius was a JavaScripter](#)
   - Description: "The Bauhaus school’s emphasis on the importance of simplicity, the belief that form follows function, and the reconciliation of the fine and applied arts mirrors the development community’s struggles to reconcile code with design. We’ll examine how the ideas of Walter Gropius and other leading minds at the Bauhaus remain relevant nearly a century later, and focus on how these fundamental tenets can guide the way we structure our JavaScript."
 
+- [Pawel Szymczykowski](#)( [Twitter](https://twitter.com/makenai) / [Github](https://github.com/makenai) )
+  - Presentation: [JavaScript in (Near) Space](#)
+  - Description: "Near space is a region of the Earth’s atmosphere starting at 20 km, high enough to boil water at body temperature. With a little bit of preparation, you can launch a ballon carrying a payload of sensors and cameras driven by JavaScript into near space at twice the height that commercial airlines can fly. I will guide you through the hardware, software and red tape you should be familiar with to create your own high altitude experiments. Let’s take back cloud computing!"
+
 ## Tools
 - [Semver](http://semver.org/): Semantic Versioning
 - [Greenkeeper.io](http://greenkeeper.io/): Always up-to-date npm dependencies, zero hassle
