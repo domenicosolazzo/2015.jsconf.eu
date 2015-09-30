@@ -42,7 +42,7 @@ There are way more than 150.000 packages on npm today – the most of any regist
   - Description: "In an industry that is so focused frameworks & tooling, we tend to lose sight of the people behind the products and how we work with them. I’ve found empathy to be a powerful resource while collaborating with teams inside companies and across the open source community. By breaking down The Other Side of Empathy, I will demonstrate how applying its principles to your development process will benefit the community and the products they create."
   
 - [Marijn Haverbeke](#)( [Twitter](https://twitter.com/marijnjh) / [Github](https://github.com/marijnh) / [Website](http://marijnhaverbeke.nl/) )
-  - Presentation: [Salvaging contentEditable: Building a Robust WYSIWYM Editor](#)
+  - Presentation: [Salvaging contentEditable: Building a Robust WYSIWYM Editor](http://prosemirror.net//)
   - Description: "Web-based WYSIWYG editors are notorious for spitting out a distasteful HTML soup. In this talk I’ll show how I implemented an editor that, instead of trying to filter and clean this soup, takes control away from the browser’s contentEditable implementation, and reinterpret user actions as operations on our own semantic document model (i.e. not HTML). The result is a WYSIWYM (what you see is what you mean) editor, more predictable than classic WYSIWYG, and just as user friendly."
 
 - [Sarah Meyer](#)( [Twitter](https://twitter.com/meyerini) / [Github](https://github.com/sarahmeyer) )
@@ -213,6 +213,7 @@ This will be an exploration of our tool chains with a focus on transpilers. The 
 ## Tools
 - [Semver](http://semver.org/): Semantic Versioning
 - [Greenkeeper.io](http://greenkeeper.io/): Always up-to-date npm dependencies, zero hassle
+- [ProseMirror](http://prosemirror.net//): In-browser structured text editing
 
 ## Articles
 - [Why Performance Matters: The Perception Of Time](http://www.smashingmagazine.com/2015/09/why-performance-matters-the-perception-of-time/) by [Denys Mishunov](https://twitter.com/mishunov)
