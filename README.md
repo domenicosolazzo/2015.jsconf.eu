@@ -171,7 +171,11 @@ This will be an exploration of our tool chains with a focus on transpilers. The 
 
 - [Razvan Caliman](#)( [Twitter](https://twitter.com/razvancaliman) / [Github](https://github.com/oslego) )
   - Presentation: [Disconnected Networking](#)
-  - Description: "There was a time when data connections like WiFi and Bluetooth didn’t exist, yet people still managed to send information over long distances using clever encodings like Morse Code, sound waves and visual impulses. What can we learn from that? This talk looks at ways to use web platform capabilities, like the Web Audio API, Ambient Light Events and Touch Events, to revisit old data transmission techniques and apply them in new contexts. We’ll use demos to explore ultrasonic networking between air-gapped devices, indoor positioning without GPS and sending data through touch.
+  - Description: "There was a time when data connections like WiFi and Bluetooth didn’t exist, yet people still managed to send information over long distances using clever encodings like Morse Code, sound waves and visual impulses. What can we learn from that? This talk looks at ways to use web platform capabilities, like the Web Audio API, Ambient Light Events and Touch Events, to revisit old data transmission techniques and apply them in new contexts. We’ll use demos to explore ultrasonic networking between air-gapped devices, indoor positioning without GPS and sending data through touch."
+
+- [Lewis Cowper](#)( [Twitter](https://twitter.com/lewiscowper) / [Github](https://github.com/lewiscowper/) / [Website](http://lewis.red/) )
+  - Presentation: [Forklift Driver to Developer in 9 Months](#)
+  - Description: "Moving up the ladder from forklift driver and general labourer, to front end developer, with a stint in manual testing, was a big challenge. However it’s exactly what I did, and I couldn’t have done it without following a few core principles. Getting up the nerve to go to local usergroups, and conferences, and discovering a new found love of public speaking, was a huge leap from labouring. Similarly, I discovered contributing to open source wasn’t that big a deal, and some things certain projects did made it really easy! Also, learning about things like source control was super integral to being where I am today."
 
 Finally, we’ll look at the privacy implications these unconventional networking capabilities bring."
 
