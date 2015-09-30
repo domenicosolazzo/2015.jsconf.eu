@@ -165,6 +165,10 @@ This will be an exploration of our tool chains with a focus on transpilers. The 
   - Presentation: [Good Tech for Hard Places: Fighting Ebola with Javascript Offline Apps](https://github.com/patriciagarcia/talks/blob/master/good-tech-for-hard-places.pdf)
   - Description: "On 23rd July 2014, the first case of Ebola was reported in Nigeria, home to a small NGO working at the intersection of tech and public health. By then over 1000 cases had been reported in Guinea, Sierra Leone and Liberia. This is a story of how we use JavaScript to fight the Ebola outbreak. It’s also a story of building good tech for hard places, where a stable internet connection is rare and emergencies are real. There are a lot of awesome technologies (e.g. CouchDB and PouchDB) out there to help you build offline applications. There is also no shortage of beginner level online tutorials to show you how to do a quick and nice first prototype, but as in any new field there is not so much documentation available to help you solve the problems you’ll find when deploying your offline applications to be used in the “real” world. This talk will present some of these problems as well as the solutions we came up with, including some open source tools developed by ourselves."
 
+- [Todd Gardner](#)( [Twitter](https://twitter.com/toddhgardner) / [Github](https://github.com/toddhgardner) / [Website](http://todd.mn/) )
+  - Presentation: [JavaScript Forensics](#)
+  - Description: "Something terrible happened here. Traces of errors litter the floor; memory leaking from cracks in the ceiling. Someone lost their object context in the corner. Everything reeks of jank. In this session, a JavaScript error tracking expert breaks down a series of common and complex crimes against web applications. You’ll leave the session armed with techniques and tools to detect, diagnose, and fix your JavaScript web applications. Bring your bugs and let’s fix up our web."
+
 ## Tools
 - [Semver](http://semver.org/): Semantic Versioning
 - [Greenkeeper.io](http://greenkeeper.io/): Always up-to-date npm dependencies, zero hassle
