@@ -169,6 +169,12 @@ This will be an exploration of our tool chains with a focus on transpilers. The 
   - Presentation: [JavaScript Forensics](#)
   - Description: "Something terrible happened here. Traces of errors litter the floor; memory leaking from cracks in the ceiling. Someone lost their object context in the corner. Everything reeks of jank. In this session, a JavaScript error tracking expert breaks down a series of common and complex crimes against web applications. You’ll leave the session armed with techniques and tools to detect, diagnose, and fix your JavaScript web applications. Bring your bugs and let’s fix up our web."
 
+- [Razvan Caliman](#)( [Twitter](https://twitter.com/razvancaliman) / [Github](https://github.com/oslego) )
+  - Presentation: [Disconnected Networking](#)
+  - Description: "There was a time when data connections like WiFi and Bluetooth didn’t exist, yet people still managed to send information over long distances using clever encodings like Morse Code, sound waves and visual impulses. What can we learn from that? This talk looks at ways to use web platform capabilities, like the Web Audio API, Ambient Light Events and Touch Events, to revisit old data transmission techniques and apply them in new contexts. We’ll use demos to explore ultrasonic networking between air-gapped devices, indoor positioning without GPS and sending data through touch.
+
+Finally, we’ll look at the privacy implications these unconventional networking capabilities bring."
+
 ## Tools
 - [Semver](http://semver.org/): Semantic Versioning
 - [Greenkeeper.io](http://greenkeeper.io/): Always up-to-date npm dependencies, zero hassle
