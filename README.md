@@ -120,6 +120,12 @@ This will be an exploration of our tool chains with a focus on transpilers. The 
   - Presentation: [A fifth of century](#)
   - Description: "This last May JavaScript turned 20 years old. I want to look at how we are used to code with the current standard (ES5) and how it would be to use JavaScript’s first version in retrospective. We’re going to talk about the path through Mocha, LiveScript, JavaScript, ECMAScript 1, 2,3,5 and the latest ECMAScript 2015 and 2016."
 
+
+- [Panos Astithas](#)( [Twitter](https://twitter.com/pastith) / [Github](https://github.com/past/) / [Website](http://astithas.com/) )
+  - Presentation: [Write once, debug everywhere, from Firefox](#)
+  - Description: "Remember the old joke about how the Java slogan “write once, run everywhere” was more like “write once, debug everywhere”? Good one. Actually, many people say this about the Web, too. In fact, it would be more accurate in our case to state it as “write once, debug everywhere, each time with different tools”. But does it have to be that way? A new Firefox feature called Valence allows you to debug your web app in any target environment: Firefox, Chrome, iOS, Android, you name it. Does it actually work? How does it work? Can we expect more from it? How can other browsers use it? In this talk we will find the answers to these questions and discuss the accuracy of the tentative slogan “write once, debug everywhere, from Firefox” (or lack thereof)."
+
+
 ## Tools
 - [Semver](http://semver.org/): Semantic Versioning
 - [Greenkeeper.io](http://greenkeeper.io/): Always up-to-date npm dependencies, zero hassle
