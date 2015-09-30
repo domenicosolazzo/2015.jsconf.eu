@@ -133,6 +133,10 @@ This will be an exploration of our tool chains with a focus on transpilers. The 
   - Presentation: [JavaScript in (Near) Space](#)
   - Description: "Near space is a region of the Earth’s atmosphere starting at 20 km, high enough to boil water at body temperature. With a little bit of preparation, you can launch a ballon carrying a payload of sensors and cameras driven by JavaScript into near space at twice the height that commercial airlines can fly. I will guide you through the hardware, software and red tape you should be familiar with to create your own high altitude experiments. Let’s take back cloud computing!"
 
+- [Bryan Hughes](#)( [Twitter](https://twitter.com/nebrius) / [Github](https://github.com/wweliz) / [Website](https://medium.com/@nebrius/) )
+  - Presentation: [The Risks and Rewards of Getting Involved and How to Do It](#)
+  - Description: "Does it seem like everyone else knows more than you? Do you see people on stage or organizing events and think, “I could never do what they do”? Have you felt marginalized by the tech industry? Getting involved can be a daunting prospect, especially if you’re from a marginalized group. But there are a few decent and kind communities out there, and getting involved can be highly rewarding. It’s also a lot easier than you think! In this talk, I will discuss how I got involved as a not straight male, how you can do it too, and how we can make our communities better and more welcoming for everyone."
+
 ## Tools
 - [Semver](http://semver.org/): Semantic Versioning
 - [Greenkeeper.io](http://greenkeeper.io/): Always up-to-date npm dependencies, zero hassle
