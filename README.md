@@ -194,10 +194,14 @@ This will be an exploration of our tool chains with a focus on transpilers. The 
   - Presentation: [Interactive Visualisations at Scale](#)
   - Description: "As data scale increases and browser capabilities grow, it’s becoming increasingly possible to build rich, interactive visualisations on the web. Join us as we explore some of our powerful browser-based analytic tools designed to visualise time-series data and network graphs. In this session we’ll talk about how to use the DOM, Canvas and some smart Javascript tricks to build interactive user experiences designed to scale with the data."
 
-
 - [Gilmore Davidson](#)( [Twitter](https://twitter.com/iamnotyourbroom) / [Github](https://github.com/gilmoreorless) / [Website](https://shoehornwithteeth.com/) )
   - Presentation: [Time zone of your life](#)
   - Description: "Time zones – the undoing of many developers’ sense of sanity. Get them right and most likely your users won’t even notice. Get them wrong and you can end up increasing racial tensions in the Middle East. As we embed ourselves further into this Brave New World of JS Everywhere, let us not forget the basic lessons from before JS existed. This talk will explain the oddities, pitfalls, and ever-changing nature of time zones, so that you may learn from my mistakes (I wasn’t kidding about the Middle East bit)."
+
+- [Brenna O'Brien](#)( [Twitter](https://twitter.com/brnnbrn) / [Github](https://github.com/brenna) / [Website](http://brennaobrien.com/) )
+  - Presentation: [JavaScript Community: The Good Parts](#)
+  - Description: "As front-end dev educator, my heart broke every time a student proclaimed “I hate JavaScript.” I’ve found the JavaScript community to be extremely positive and welcoming, but we can do better, especially if our newest colleagues aren’t feeling the love. Let’s talk about barriers to entry for new JS devs, both technical and non-technical, and let’s talk about how we can help alleviate them. Learn how to be supportive and inspiring in your daily work, how to teach and explain JS concepts effectively, and how you, esteemed JS community member, can help end the laments of “I hate JavaScript.”"
+
 
 ## Tools
 - [Semver](http://semver.org/): Semantic Versioning
