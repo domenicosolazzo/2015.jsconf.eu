@@ -177,7 +177,10 @@ This will be an exploration of our tool chains with a focus on transpilers. The 
   - Presentation: [Forklift Driver to Developer in 9 Months](#)
   - Description: "Moving up the ladder from forklift driver and general labourer, to front end developer, with a stint in manual testing, was a big challenge. However it’s exactly what I did, and I couldn’t have done it without following a few core principles. Getting up the nerve to go to local usergroups, and conferences, and discovering a new found love of public speaking, was a huge leap from labouring. Similarly, I discovered contributing to open source wasn’t that big a deal, and some things certain projects did made it really easy! Also, learning about things like source control was super integral to being where I am today."
 
-Finally, we’ll look at the privacy implications these unconventional networking capabilities bring."
+- [Stefanie Grewenig](#)( [Twitter](https://twitter.com/sgrewenig) )
+  - Presentation: [OnConnectionLost: The life of an offline web application](#)
+  - Description: "Can you use HTML5 technologies to build a web application which works offline? Without a reliable internet connection? Let’s say for two weeks? That is what our client asked us to build. Their people will use the application on the road; reading documents, entering results and uploading pictures. And then they come home, connect to the internet and sync their results with their colleagues’."
+
 
 ## Tools
 - [Semver](http://semver.org/): Semantic Versioning
