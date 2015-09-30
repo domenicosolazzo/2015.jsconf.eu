@@ -190,6 +190,10 @@ This will be an exploration of our tool chains with a focus on transpilers. The 
   - Presentation: [Applying 3D Engineering Drawing Techniques To Web App Diagrams](#)
   - Description: "Web app technical diagrams fall into the trap of over simplifying complexity. And so diagrams which are meant to represent 1,000s or even 10,000s of hours of the large scale multidisciplinary construction effort that is a web app project is reduced to sticks-and-clouds architecture drawings, coarse wire frames and/or detailed UI mockups or screenshots. What’s missing from these representations ? Usually a lot - like code volume, 3rd party dependencies, environments, delivery processes and so much more. This talk presents a new vision of web app technology diagrams using the structural engineering drawing technique of isometric projections to provide much better perspective of the multi dimensional nature of web app programming projects. A taste of this new style of diagraming of web apps can be seen, today, at the speaker’s site stackynotes.com but diagrams with much more depth and breadth will be explored in the actual conference talk."
 
+- [Tim Slatcher](#)
+  - Presentation: [Interactive Visualisations at Scale](#)
+  - Description: "As data scale increases and browser capabilities grow, it’s becoming increasingly possible to build rich, interactive visualisations on the web. Join us as we explore some of our powerful browser-based analytic tools designed to visualise time-series data and network graphs. In this session we’ll talk about how to use the DOM, Canvas and some smart Javascript tricks to build interactive user experiences designed to scale with the data."
+
 ## Tools
 - [Semver](http://semver.org/): Semantic Versioning
 - [Greenkeeper.io](http://greenkeeper.io/): Always up-to-date npm dependencies, zero hassle
