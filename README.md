@@ -195,7 +195,7 @@ This will be an exploration of our tool chains with a focus on transpilers. The 
   - Description: "As data scale increases and browser capabilities grow, it’s becoming increasingly possible to build rich, interactive visualisations on the web. Join us as we explore some of our powerful browser-based analytic tools designed to visualise time-series data and network graphs. In this session we’ll talk about how to use the DOM, Canvas and some smart Javascript tricks to build interactive user experiences designed to scale with the data."
 
 - [Gilmore Davidson](#)( [Twitter](https://twitter.com/iamnotyourbroom) / [Github](https://github.com/gilmoreorless) / [Website](https://shoehornwithteeth.com/) )
-  - Presentation: [Time zone of your life](#)
+  - Presentation: [Time zone of your life](https://shoehornwithteeth.com/links/jsconf-eu-2015-time-zone-of-your-life/)
   - Description: "Time zones – the undoing of many developers’ sense of sanity. Get them right and most likely your users won’t even notice. Get them wrong and you can end up increasing racial tensions in the Middle East. As we embed ourselves further into this Brave New World of JS Everywhere, let us not forget the basic lessons from before JS existed. This talk will explain the oddities, pitfalls, and ever-changing nature of time zones, so that you may learn from my mistakes (I wasn’t kidding about the Middle East bit)."
 
 - [Brenna O'Brien](#)( [Twitter](https://twitter.com/brnnbrn) / [Github](https://github.com/brenna) / [Website](http://brennaobrien.com/) )
