@@ -216,6 +216,8 @@ This will be an exploration of our tool chains with a focus on transpilers. The 
 - [ProseMirror](http://prosemirror.net//): In-browser structured text editing
 - [Fusile](https://github.com/Munter/fusile): A web asset precompiling file system proxy.
 - [Tolk](https://github.com/Munter/tolk): A file reader that promises to translate non-web assets to web assets given the available transpilers. Autoprefixing, sourcemaps and all!
+- [Sonicnet](https://github.com/borismus/sonicnet.js): Ultrasonic Networking with the Web Audio API
+- [Doppler](https://github.com/DanielRapp/doppler): Motion detection using the doppler effect
 
 ## Gist
 - [Airplay modules](https://gist.github.com/watson/50e46a6085ffc805d326): Overview of Airplay modules
