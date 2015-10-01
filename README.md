@@ -7,6 +7,8 @@ Site: [JSConf 2015](http://2015.jsconf.eu/)
 ## Video:
 [![JSConf presentation](http://img.youtube.com/vi/lJ1kY-CSpBk/0.jpg)](https://goo.gl/kt7X7e "JSConf presentation")
 
+[Link](https://goo.gl/kt7X7e)
+
 ## Speakers:
 - [Jennifer Wong](#)( [Twitter](https://twitter.com/mybluewristband) / [Github](https://github.com/jennz0r) / [Website](http://mochimachine.org/) )
   - Presentation: [I Think I Know What You’re Talking About, But I’m Not Sure](https://github.com/jennz0r/think-know-not-sure)
