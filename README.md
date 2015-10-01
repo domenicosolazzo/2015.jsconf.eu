@@ -5,7 +5,7 @@ List of resources from JSConf EU 2015
 Site: [JSConf 2015](http://2015.jsconf.eu/)
 
 ## Video:
-[![JSConf presentation](https://goo.gl/kt7X7e)](https://goo.gl/kt7X7e "JSConf presentation")
+[![JSConf presentation](http://img.youtube.com/vi/lJ1kY-CSpBk/0.jpg)](https://goo.gl/kt7X7e "JSConf presentation")
 
 ## Speakers:
 - [Jennifer Wong](#)( [Twitter](https://twitter.com/mybluewristband) / [Github](https://github.com/jennz0r) / [Website](http://mochimachine.org/) )
