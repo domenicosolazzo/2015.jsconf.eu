@@ -199,7 +199,7 @@ This will be an exploration of our tool chains with a focus on transpilers. The 
   - Description: "Time zones – the undoing of many developers’ sense of sanity. Get them right and most likely your users won’t even notice. Get them wrong and you can end up increasing racial tensions in the Middle East. As we embed ourselves further into this Brave New World of JS Everywhere, let us not forget the basic lessons from before JS existed. This talk will explain the oddities, pitfalls, and ever-changing nature of time zones, so that you may learn from my mistakes (I wasn’t kidding about the Middle East bit)."
 
 - [Brenna O'Brien](#)( [Twitter](https://twitter.com/brnnbrn) / [Github](https://github.com/brenna) / [Website](http://brennaobrien.com/) )
-  - Presentation: [JavaScript Community: The Good Parts](#)
+  - Presentation: [JavaScript Community: The Good Parts](http://talks.brennaobrien.com/the-good-parts/javascript-community_the-good-parts.pdf)
   - Description: "As front-end dev educator, my heart broke every time a student proclaimed “I hate JavaScript.” I’ve found the JavaScript community to be extremely positive and welcoming, but we can do better, especially if our newest colleagues aren’t feeling the love. Let’s talk about barriers to entry for new JS devs, both technical and non-technical, and let’s talk about how we can help alleviate them. Learn how to be supportive and inspiring in your daily work, how to teach and explain JS concepts effectively, and how you, esteemed JS community member, can help end the laments of “I hate JavaScript.”"
 
 - [Lieke Boon](#)( [Twitter](https://twitter.com/Lieke2208) / [Github](https://github.com/Lieke22) / [Website](http://www.codepancake.com/) )
