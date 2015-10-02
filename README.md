@@ -3,6 +3,7 @@ List of resources from JSConf EU 2015
 
 
 Site: [JSConf 2015](http://2015.jsconf.eu/)
+Schedule: [JSON](https://spreadsheets.google.com/feeds/cells/0AhO5JVicsAJOdGEyUTBZMXVUZXZ2c2tXMDVxcy1aX0E/od4/public/basic?alt=json) / [HTML](https://docs.google.com/spreadsheets/d/1NHM-pwTepPabknf0LlTXfZh9s4x3hbl5GNyDmXDomZI/pub?output=html)
 
 ## Video:
 [![JSConf presentation](http://img.youtube.com/vi/lJ1kY-CSpBk/0.jpg)](https://goo.gl/kt7X7e "JSConf presentation")
