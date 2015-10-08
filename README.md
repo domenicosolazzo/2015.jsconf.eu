@@ -1,5 +1,5 @@
 # JSConf EU 2015
-List of talks at JSConf 2015 in Berlin
+List of talks at JSConf 2015 (Berlin)
 
 
 Site: [JSConf 2015](http://2015.jsconf.eu/)
